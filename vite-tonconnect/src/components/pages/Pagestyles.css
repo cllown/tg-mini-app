@@ -1,0 +1,12 @@
+.page{
+   font-size: 20px;
+   display: flex;
+   align-items: center;
+   padding-top: 30px;
+   flex-direction: column;
+}
+.link{
+   position: absolute;
+   padding-top: 50px;
+   font-size: 8px;
+}
